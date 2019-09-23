@@ -24,7 +24,7 @@ from selenium import webdriver
 # In[4]:
 
 
-driver = webdriver.Chrome(executable_path = 'C:\\Users\\lenovo\\Desktop\\scrapping\\chromedriver_win32\\chromedriver.exe')
+driver = webdriver.Chrome(executable_path = 'chromedriver.exe')
 
 
 # In[5]:
