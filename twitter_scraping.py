@@ -10,7 +10,7 @@ from bs4 import BeautifulSoup
 import csv
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
-driver = webdriver.Chrome(executable_path = 'C:\\Users\\lenovo\\Desktop\\scrapping\\chromedriver_win32\\chromedriver.exe')
+driver = webdriver.Chrome(executable_path = 'chromedriver.exe')
 
 
 # In[2]:
